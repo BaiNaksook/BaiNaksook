@@ -29,4 +29,4 @@
 Baihara Group builds websites and web apps, with a 30-day free bug-fix warranty after hand-over. Pricing depends on scope: send the details and I'll come back with a scope and a price.
 รับทำเว็บไซต์และเว็บแอป รับประกันแก้บั๊กฟรี 30 วันหลังส่งมอบ ประเมินราคาตามขอบเขตงาน
 
-👉 **[baihara.vercel.app](https://baihara.vercel.app)**
+👉 ** [baihara.com](https://www.baihara.com/)**
