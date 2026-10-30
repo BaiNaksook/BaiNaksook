@@ -5,7 +5,7 @@
 **EN** · I build working systems for Thai schools and small shops, plus Roblox games. From the screens and the database to the phone app and the sensors in the field.
 **TH** · ผมสร้างระบบที่ใช้งานได้จริงให้โรงเรียนและร้านค้า รวมถึงเกม Roblox ตั้งแต่หน้าจอ ฐานข้อมูล แอปมือถือ ไปจนถึงเซนเซอร์หน้างาน
 
-🌐 **Portfolio:** [baihara.vercel.app](https://baihara.vercel.app) · ✉️ [yzgfxbbtt@gmail.com](mailto:yzgfxbbtt@gmail.com) · [Facebook](https://www.facebook.com/ubaidilla.naksuk)
+🌐 **Portfolio:** [baihara.com](https://www.baihara.com/) · ✉️ [yzgfxbbtt@gmail.com](mailto:yzgfxbbtt@gmail.com) · [Facebook](https://www.facebook.com/ubaidilla.naksuk)
 
 ---
 
